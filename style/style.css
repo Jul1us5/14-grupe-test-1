@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+}
+    div {
+
+    }
+        p {
+            font-size: 18px;
+            line-height: 20px;
+            text-transform: capitalize;
+            color: black;
+        }
